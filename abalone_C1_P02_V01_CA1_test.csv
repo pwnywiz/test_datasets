@@ -1,4 +1,4 @@
-Sex,Length,Diameter,Height,Whole.weight,Shucked.weight,Viscera.weight,Shell.weight,outlier
+Sex,Length,Diameter,Height,Whole.weight,Shucked.weight,Viscera.weight,Shell.weight,outlier_label
 0.846939,0.64,0.485,0.16,1.006,0.456,0.2245,0.2835,no
 1.383784,0.52,0.4,0.11,0.597,0.2935,0.1155,0.16,no
 1.383784,0.47,0.355,0.12,0.393,0.167,0.0885,0.115,no
